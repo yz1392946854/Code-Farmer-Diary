@@ -1,6 +1,10 @@
 # Code Farmer's Diary
 # 码农日记
 
+> A hymn of devotion and humble love
+> 一曲关于奉献的心和卑微的爱的赞歌
+
+![licking dog](https://gitee.com/kiss-younger/pictures/raw/master/picgo-cli/single_patient_dog.jpg)
 
 
 #### 码农日记 6月10日 中雨
@@ -48,3 +52,7 @@ IDE提示找不到对象，我找了找`libraries`。嗯，我在库里找不到
 
 #### 码农日记 6月24日 中雨
 我在窗边等了三天，还是没等到你回消息。忍不住问你，你终于回了一条：“我不需要你的关心，管好你自己别来烦我。”      看到“需要你”这三个字，我一下就哭了，原来你离不开我
+
+#### 码狗日记 6月26日 多云
+连续拍了她好几天，她终于回我了，果然，坚持就能有收获！
+她问我是啥品种的癞蛤蟆。我？？？
