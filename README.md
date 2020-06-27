@@ -1,11 +1,12 @@
-# Code Farmer's Diary
+# Code Farmers' Diary
 # 码农日记
 
 > A hymn of devotion and humble love
+> 
 > 一曲关于奉献的心和卑微的爱的赞歌
 
-![licking dog](https://gitee.com/kiss-younger/pictures/raw/master/picgo-cli/single_patient_dog.jpg)
-
+<!-- ![licking dog](https://gitee.com/kiss-younger/pictures/raw/master/picgo-cli/single_patient_dog.jpg) -->
+![code farmers](./code-farmer.png)
 
 #### 码农日记 6月10日 中雨
 IDE提示找不到对象，我找了找`libraries`。嗯，我在库里找不到你，我的青春里也没有你。
